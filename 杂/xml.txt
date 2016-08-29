@@ -1,0 +1,1 @@
+class="WB_cardwrap WB_feed_type S_bg2 "
